@@ -8,4 +8,13 @@ Conceito geral. Classe, objeto, atributos, construtor e métodos. Exemplo e exer
 Classe, objeto, atributos, construtor e métodos. Exercício.
 ### Aula 7 - POO em Python
 Revendo e terminando os exercícios da aula anterior (a maioria copiou o código).
+### Aula 8 - POO em Python
+Revisão de POO.
+### Aula 9 - POO em Python
+Herança e polimorfismo.
+### Aula 10 - POO em Python
+Herança e polimorfismo.
+### Aula 11 - POO em Python
+Exercitando o processo de abstração de classe com herança. Identificando atributos e métodos.
+
 
