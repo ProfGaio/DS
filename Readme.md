@@ -16,5 +16,9 @@ Herança e polimorfismo.
 Herança e polimorfismo.
 ### Aula 11 - POO em Python
 Exercitando o processo de abstração de classe com herança. Identificando atributos e métodos.
+### Aula 12 - GUI em Python
+Criação de App com interface GUI do TKinter: início.
+### Aula 13 - GUI em Python
+Criação de App com interface GUI do TKinter.
 
 
