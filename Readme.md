@@ -20,5 +20,10 @@ Exercitando o processo de abstração de classe com herança. Identificando atri
 Criação de App com interface GUI do TKinter: início.
 ### Aula 13 - GUI em Python
 Criação de App com interface GUI do TKinter.
+### Aula 14 - Avaliação Geral
+Realização do Simulado para todas as turmas.
+### Aula 15 - POO em Python
+Encapsulmento.
+
 
 
