@@ -1,0 +1,18 @@
+1) Crie a classe Produto com os seguintes requisitos:
+
+    Atributos privados: nome, preco
+
+    Use @property e @setter para controlar acesso ao preco
+
+    O preço não pode ser negativo
+
+    Método exibir() para mostrar os dados do produto
+
+
+2) Crie duas classes:
+
+    Animal com atributos nome e especie, e método falar()
+
+    Cachorro e Gato que herdam de Animal
+
+    Sobrescrever o método falar() para exibir “Au au!” ou “Miau!” 
