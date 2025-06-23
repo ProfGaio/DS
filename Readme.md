@@ -24,6 +24,9 @@ Criação de App com interface GUI do TKinter.
 Realização do Simulado para todas as turmas.
 ### Aula 15 - POO em Python
 Encapsulmento.
-
+### Aula 16 - Encapsulamento Pythônico
+Aprendendo o @property e @nome_propriedade.setter
+### Aula 17 - Quiz de Revisão do 2º Bimestre
+[Clique aqui para responder o formulário com Questões de Revisão do 2º Bimestre](https://docs.google.com/forms/d/e/1FAIpQLSc3tK2-XkEtS6aJXYZ6s87tF-wR5rUoNUevxI1x7RHMbC-R3Q/viewform?usp=dialog)
 
 
