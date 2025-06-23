@@ -26,7 +26,7 @@ Realização do Simulado para todas as turmas.
 Encapsulmento.
 ### Aula 16 - Encapsulamento Pythônico
 Aprendendo o @property e @nome_propriedade.setter.
-[Clique aqui para ver texto explicativo com código misturados](https://colab.research.google.com/drive/13Tdj48ABIH871vEWHUeeTzHYap7WDvSq?usp=sharing)
+Google Colab: [Clique aqui para ver texto explicativo com código misturados](https://colab.research.google.com/drive/13Tdj48ABIH871vEWHUeeTzHYap7WDvSq?usp=sharing)
 ### Aula 17 - Quiz de Revisão do 2º Bimestre
 [Clique aqui para responder o formulário com Questões de Revisão do 2º Bimestre](https://docs.google.com/forms/d/e/1FAIpQLSc3tK2-XkEtS6aJXYZ6s87tF-wR5rUoNUevxI1x7RHMbC-R3Q/viewform?usp=dialog)
 
