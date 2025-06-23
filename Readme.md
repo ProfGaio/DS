@@ -24,7 +24,7 @@ Criação de App com interface GUI do TKinter.
 Realização do Simulado para todas as turmas.
 ### Aula 15 - POO em Python
 Encapsulmento.
-### Aula 16 - Encapsulamento Pythônico
+### 📗 Aula 16 - Encapsulamento Pythônico
 Aprendendo o @property e @nome_propriedade.setter.
 
 Google Colab: [Clique aqui para ver texto explicativo com código misturados](https://colab.research.google.com/drive/13Tdj48ABIH871vEWHUeeTzHYap7WDvSq?usp=sharing)
