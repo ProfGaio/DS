@@ -35,12 +35,12 @@ class ControleFinanceiro:
             print("  nNenhuma transação registrada.")  
             return
 
-        print("  n--- Extrato Financeiro  ---")  
+        print(" ----- Extrato Financeiro  -----")  
         for transacao in self._transacoes:  
             print(transacao)  
         print("--------------------------")
 
-    def calculaSaldo(self)  ->  float:  
+    def calculaSaldo(self):  
         """  
         Calcula e retorna o saldo total (receitas  - despesas).  
         """  
