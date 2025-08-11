@@ -19,6 +19,9 @@ while (opc != 3):
         meu_Gerenciador.adicionaTransacao(movimentacao)
     
     if opc == 2:
-        meu_Gerenciador.listarTransacoes()
+        meu_Gerenciador.listaTransacoes()
+
+    
+
 
 
